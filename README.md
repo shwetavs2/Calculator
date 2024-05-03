@@ -1,4 +1,4 @@
-#A simple Calculator application created using the react framework
+# A simple Calculator application created using the react framework
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
